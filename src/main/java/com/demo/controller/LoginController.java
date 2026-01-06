@@ -33,6 +33,5 @@ public class LoginController {
 		System.out.println("from dashboard");
 		
 		return "dashboard";
-		
 	}
 }
