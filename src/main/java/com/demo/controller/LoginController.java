@@ -12,7 +12,7 @@ public class LoginController {
 	@GetMapping("/loginPage")
 	public String login() {
 		
-		System.out.println("from login controller");
+		System.out.println("from login controllers");
 		
 		return "login";
 		
